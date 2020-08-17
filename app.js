@@ -202,7 +202,6 @@ document.addEventListener('DOMContentLoaded', () => {
      * @param casilla Casilla sobre la que se hizo doble-click
      **/ 
     function dobleClick(casilla) {
-        console.log('doble click');
          // Comprobamos si la casilla no es clickeable
          if (!casilla.classList.contains('marcada') || finPartida) return;
 
