@@ -1,6 +1,6 @@
 # BUSCAMINAS
 Juego del BUSCAMINAS con HTML, CSS y JAVASCRIPT. 
-Realizado a partir del tutorial de **Ania Kubów** que puedes ver [aquí](https://www.youtube.com/watch?v=rxdGAKRndz8) y al que le he añadido pequeños cambios (formulario de 
+Realizado a partir del tutorial de **Ania Kubów** que puedes ver [aquí](https://www.youtube.com/watch?v=rxdGAKRndz8) y al que le he añadido pequeños cambios (formulario de configuración del juego...).
 
 ## Web
 [Jugar al BUSCAMINAS](https://javimontoto.github.io/Buscaminas/)
